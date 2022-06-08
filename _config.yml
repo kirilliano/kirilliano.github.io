@@ -1,1 +1,3 @@
 @include
+
+theme: jekyll-theme-minimal

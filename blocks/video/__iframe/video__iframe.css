@@ -1,0 +1,11 @@
+.video__iframe {
+    margin: 0;
+    padding: 0 0 0 0;
+    width: 515px; 
+    height: 316px;
+    border: 0px;
+}
+
+.video__iframe:first-of-type {
+    padding-right: 20px;
+}

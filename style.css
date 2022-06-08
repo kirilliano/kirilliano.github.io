@@ -9,7 +9,7 @@
     overflow: hidden;
   }
 
-.header__title {
+.headertitle {
     display: block;
     font-size: 102px;;
     width: 730px;
@@ -20,7 +20,7 @@
     z-index: 4;
 }
 
-.header__subtitle {
+.headersubtitle {
     display: block;
     position: absolute;
     left: 64px;
@@ -33,7 +33,7 @@
     z-index: 3;
 }
 
-.header__square-pic {
+.headersquare-pic {
     background-color: #2f80ed;
     width: 568px;
     height: 568px;
@@ -43,7 +43,7 @@
     right: 0;
 }
 
-.header__main-illustration {
+.headermainillustration {
     position: absolute;
     right: 0;
     bottom: 0;
